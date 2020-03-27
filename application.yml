@@ -1,0 +1,14 @@
+﻿spring:
+  profile:
+    active:
+      - dev
+---
+spring:
+  profile: dev #开发环境
+    application:
+      name: microservicecloud-config-aidata-dev
+---
+spring:
+  profile: dev #开发环境
+    application:
+      name: microservicecloud-config-aidata-test
