@@ -9,6 +9,6 @@ spring:
     name: microservicecloud-config-aidata-dev
 ---
 spring: 
-  profile: dev
+  profile: test
   application: 
     name: microservicecloud-config-aidata-test
