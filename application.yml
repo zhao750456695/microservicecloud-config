@@ -4,11 +4,11 @@
       - dev
 ---
 spring:
-  profile: dev #开发环境
+  profile: dev
     application:
       name: microservicecloud-config-aidata-dev
 ---
 spring:
-  profile: dev #开发环境
+  profile: dev
     application:
       name: microservicecloud-config-aidata-test
