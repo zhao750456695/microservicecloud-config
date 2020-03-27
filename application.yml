@@ -1,14 +1,14 @@
-﻿spring:
-  profile:
-    active:
+﻿spring: 
+  profile: 
+    active: 
       - dev
 ---
-spring:
+spring: 
   profile: dev
-    application:
-      name: microservicecloud-config-aidata-dev
+  application: 
+    name: microservicecloud-config-aidata-dev
 ---
-spring:
+spring: 
   profile: dev
-    application:
-      name: microservicecloud-config-aidata-test
+  application: 
+    name: microservicecloud-config-aidata-test
